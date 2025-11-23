@@ -160,8 +160,7 @@ make -j4
 ### 客户端测试
 
 ```bash
-# 使用redis-cli或telnet测试
-telnet localhost 6379
+./client
 
 # 示例命令
 SET mykey "Hello"
