@@ -1,0 +1,3 @@
+/home/wgc/桌面/Redis/Redis/server/build/CMakeFiles/test.dir
+/home/wgc/桌面/Redis/Redis/server/build/CMakeFiles/edit_cache.dir
+/home/wgc/桌面/Redis/Redis/server/build/CMakeFiles/rebuild_cache.dir
